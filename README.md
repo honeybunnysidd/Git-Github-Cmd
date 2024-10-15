@@ -44,7 +44,7 @@
     git reset (commit hash)             -> commited changes (for many commits )
     git reset --hard (commit hash)      -> commited changes (for many commits remove code )
 
-## How to create a pull request in other github account.
+## Create a pull request on other github account.
     github---------------
     click fork                    -> fork repository
     copy link                     -> copy fork repo link 
@@ -74,6 +74,6 @@
 # Coder
 Siddhartha Raghuvanshi 
 # Teacher
-Sharadha khapra
+Shradha khapra
 
-## Thank you for Visit..
+## Thank you for Visit...
