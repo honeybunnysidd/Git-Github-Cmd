@@ -79,10 +79,18 @@
     Back Button              -> cd..
     Outside directory        -> cd /
     Home directory           -> cd ~
+    Make directory           -> mkdir folderName (make folder)
+    Delete Empty folder      -> rmdir folderName
+    Create file              -> touch app.js (New file with extension)
+    Delete files             -> rm app.js
+
+    //With Flags
+
+    List files               -> ls -a (Show hidden files)
+    Remove file forcefully   -> rm -rf fileName (delete folder that contain data)
+    
 
 # Coder
-Siddhartha Raghuvanshi 
-# Teacher
-Shradha khapra
+Siddhartha Raghuvanshi
 
 ## Thank you for Visit...
