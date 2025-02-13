@@ -47,7 +47,7 @@
     copy link                     -> copy fork repo link 
     terminal-------------
     mkdir folder_name             -> create folder
-    cd folder_name              -> open folder
+    cd folder_name                -> open folder
     git clone <repo-link>         -> clone repository 
     cd repo                       -> open repository
     file exploral -------
