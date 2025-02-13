@@ -71,6 +71,15 @@
     type Some message
     click Create pull request
 
+## Terminal 
+
+    List files               -> ls (Show files)
+    Print Working Directory  -> pwd (Current directory, Where am I)
+    Change directory         -> cd (file name)
+    Back Button              -> cd..
+    Outside directory        -> cd /
+    Home directory           -> cd ~
+
 # Coder
 Siddhartha Raghuvanshi 
 # Teacher
