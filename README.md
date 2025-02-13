@@ -2,15 +2,11 @@
 
 ## Global To Local 
     Clone any repo          -> git clone (repo https link)
-    check list              -> ls 
-    open directory          -> cd (file name)
-    create file             -> touch (file name)
-    check file status       -> git status
-    untracked files | modified file etc
-    add file                -> git add (file name) || add all file -> git add . 
-    check file status       -> git status
+    Show all files(hidden)  -> ls -a
+    untracked files(U) || modified file (M)
+    Check file status       -> git status
+    Add file                -> git add fileName || Add all file -> git add . 
     commit file             -> git commit -m "(add massage)"
-    check file states       -> git status
     push to local to global -> git push origin main
 
 ## Local To Global
