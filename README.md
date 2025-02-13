@@ -37,16 +37,17 @@
 ## Fixing Mistakes
     git reset (file name) || git reset  -> staged changes ( back one stage 'git add' ka)
     git reset HEAD~1                    -> commited changes (back one commite 'git commit' ka)
+    git log                             -> commit records with hash code
     git reset (commit hash)             -> commited changes (for many commits )
     git reset --hard (commit hash)      -> commited changes (for many commits remove code )
 
-## Create a pull request on other github account.
-    github---------------
+## Create a pull request on other github account
+    Github---------------
     click fork                    -> fork repository
     copy link                     -> copy fork repo link 
     terminal-------------
     mkdir folder_name             -> create folder
-      cd folder_name              -> open folder
+    cd folder_name              -> open folder
     git clone <repo-link>         -> clone repository 
     cd repo                       -> open repository
     file exploral -------
