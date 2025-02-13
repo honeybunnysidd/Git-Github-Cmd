@@ -13,16 +13,16 @@
     Create folder and push repo
 
     git init                -> used to create trackable git repo
+    git add fileName        -> Add file || Add all file -> git add . 
+    git commit -am "msg"    -> add & commit (modified)
     git remote add origin (repo link)
     git remote -v           -> check remote
     git branch              -> check branch
-    git branch -M           -> rename branch
     git push origin main    -> push local to global
-    git commit -am "msg"    -> add & commit (modified)
     
 ## Git Branches
     git branch                          -> check branch
-    git branch -M                       -> rename branch
+    git branch -M branchName            -> rename branch
     git checkout (branch name)          -> to navigate (change branch)
     git checkout -b (new branch name)   -> create new branch
     git branch -d (branch name)         -> delete branch
