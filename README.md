@@ -87,7 +87,7 @@
     //With Flags
 
     List files               -> ls -a (Show hidden files)
-    Remove file forcefully   -> rm -rf fileName (rf = recusive force -delete folder that contain data)
+    Remove file forcefully   -> rm -rf fileName (rf = recursive force -delete folder that contain data)
     
 
 # Coder
